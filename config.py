@@ -46,7 +46,7 @@ SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
 # make your bots privacy from telegra.ph and put your url here 
-PRIVACY_LINK = getenv("PRIVACY_LINK", "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg")
+PRIVACY_LINK = getenv("PRIVACY_LINK", "https://files.catbox.moe/0fm2u1.jpg")
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
@@ -81,21 +81,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/0fm2u1.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/0fm2u1.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-STATS_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-SOUNCLOUD_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-YOUTUBE_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/0fm2u1.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/0fm2u1.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/0fm2u1.jpg"
 
 
 def time_to_seconds(time):
